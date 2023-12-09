@@ -1,0 +1,16 @@
+{
+  "name": "tiered_bad_bank",
+  "version": "1.0.0",
+  "description": "An exploration of the Bad Bank project, however it is refactored and connected to a database as a final project of the course.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
